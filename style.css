@@ -1,0 +1,80 @@
+body {
+    margin: 0;
+    font-family: 'Poppins', sans-serif;
+}
+
+.container {
+    display: flex;
+}
+
+.color {
+    color: coral;
+}
+
+h1 {
+    font-size: 50px
+}
+
+.heading {
+    border-left: 5px solid coral;
+}
+
+.half-width {
+    width: 50%;
+    padding-left: 7%;
+}
+
+.half-width img {
+    width: 80%;
+}
+
+.mission-item {
+    background-color: #E3B280;
+    border-radius: 10px;
+    margin: 20px;
+}
+
+.vission-item {
+    background-color: #FFEEEE;
+    border-radius: 10px;
+    margin: 20px;
+}
+
+.goals-item {
+    background-color: #96A4AF;
+    border-radius: 10px;
+    margin: 20px;
+}
+
+.button {
+    text-decoration: none;
+    background-color: #FF5959;
+    padding: 10px 30px;
+    color: #fff;
+    border-radius: 5px;
+}
+
+.mission-heading {
+    text-align: center;
+}
+
+.bottom {
+    margin-bottom: 100px;
+}
+
+.fsection {
+    background-color: #111;
+    padding: 5px;
+    
+}
+
+.fsection h3{
+    color: #fff;
+    text-align: center;
+}
+
+.fsection p {
+    color: #fff;
+    text-align: center;
+}
+
